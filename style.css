@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bodyPagina{
+    background-color: rgb(139, 143, 82);
+}
+
+.pie{
+    text-align: center;
+    background-color: white;
+}
